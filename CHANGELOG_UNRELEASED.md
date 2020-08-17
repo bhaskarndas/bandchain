@@ -19,11 +19,11 @@
 ### Scan
 
 - (feat) [\#2482](https://github.com/bandprotocol/bandchain/pull/2482) Implemented latest requests.
-- (imprv) [\#2481](https://github.com/bandprotocol/bandchain/pull/2481) Patched `ChainInfoHighlight` for revamp version.
-- (imprv) [\#2478](https://github.com/bandprotocol/bandchain/pull/2478) Implemented New Header (aka TopBar), Navbar and Profile.
-- (imprv) [\#2473](https://github.com/bandprotocol/bandchain/pull/2473) Implemented OWASM code tab for OC index page, improved some components
-- (imprv) [\#2471](https://github.com/bandprotocol/bandchain/pull/2471) Implemented the all oraclescripts page and refactor some part
-- (imprv) [\#2456](https://github.com/bandprotocol/bandchain/pull/2456) Changed exit_code and external_id from int to string
+- (impv) [\#2485](https://github.com/bandprotocol/bandchain/pull/2485) Implemented make a request tab on OC index
+- (impv) [\#2478](https://github.com/bandprotocol/bandchain/pull/2478) Implemented New Header (aka TopBar), Navbar and Profile.
+- (impv) [\#2473](https://github.com/bandprotocol/bandchain/pull/2473) Implemented OWASM code tab for OC index page, improved some components
+- (impv) [\#2471](https://github.com/bandprotocol/bandchain/pull/2471) Implemented the all oraclescripts page and refactor some part
+- (impv) [\#2456](https://github.com/bandprotocol/bandchain/pull/2456) Changed exit_code and external_id from int to string
 
 ### Bridges
 
